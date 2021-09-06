@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @PickaNameMethod 王安琪(Angel)
+- 👋 Hi, I’m @PickaNameMethod 
 - 👀 I’m interested in 
-   - Coding (any) 代码
-   - Psychology 心理学
+   - Coding (any)
+   - Psychology 
 - 🌱 I’m currently learning ...
-  - 安卓Android
+  - Android
 - 💞️ I’m looking to collaborate on ...
   - Notepad
   - Yuruchara
-  - Any open project I added (去我project那一栏看啦)
+  - Any open project I added
 - 📫 How to reach me ...
   - Email: angelwang11a@outlook.com
   - 微信: wa2000816
